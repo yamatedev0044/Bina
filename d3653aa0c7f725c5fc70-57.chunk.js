@@ -9502,7 +9502,7 @@
       30686: (t, e, r) => {
         "use strict";
         r.d(e, { A: () => n });
-        const n = r.p + "53f4d48806de25d6e0bf6429f83ea637.svg";
+        const n = r.p + "53f4d48806de25d6e0bf6429f83ea637.png";
       },
       87768: (t, e, r) => {
         "use strict";
